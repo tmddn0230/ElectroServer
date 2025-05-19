@@ -44,7 +44,7 @@ bool ControlManager::AddControl(SOCKET sock, sockaddr_in ip, int& index)
 
 		mControl[i].Init(i, sock, ip);
 
-		Log("AddControl: %d %d.%d.%d.%d", i,
+		Log(L"AddControl: %d %d.%d.%d.%d", i,
 			ip.sin_addr.S_un.S_un_b.s_b1,
 			ip.sin_addr.S_un.S_un_b.s_b2,
 			ip.sin_addr.S_un.S_un_b.s_b3,
@@ -58,7 +58,22 @@ bool ControlManager::AddControl(SOCKET sock, sockaddr_in ip, int& index)
 	return false;
 }
 
-
+// 모든 연결된 Control 에 데이터를 Send 
 void ControlManager::SendAll(char* buff, int size)
 {
+	::EnterCriticalSection(&g_criticalsection);
+	for (auto& control : mControl)
+	{
+		if (control.mhSocket == NULL)
+			continue;
+
+		int ret = send(control.mhSocket, buff, size, 0);
+
+		if (ret == SOCKET_ERROR)
+		{
+			Log(L"[CONTROL] send 실패. 세션 제거 예정");
+			control.Clear();
+		}
+	}
+	::LeaveCriticalSection(&g_criticalsection);
 }

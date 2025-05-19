@@ -30,14 +30,64 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     UNREFERENCED_PARAMETER(lpCmdLine);
 
     // TODO: Place code here.
+    // 
+    // Initialize global strings
+    LoadStringW(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
+    LoadStringW(hInstance, IDC_IOCPSERVER, szWindowClass, MAX_LOADSTRING);
+    MyRegisterClass(hInstance);
+
+    // Perform application initialization:
+    if (!InitInstance(hInstance, nCmdShow))
+    {
+        return FALSE;
+    }
+
+    HACCEL hAccelTable = LoadAccelerators(hInstance, MAKEINTRESOURCE(IDC_IOCPSERVER));
+
+    MSG msg;
 
     //윈속 초기화
     WSADATA wsa = { 0 };
     if (::WSAStartup(MAKEWORD(2, 2), &wsa) != 0)
     {
-        Log("ERROR: 윈속을 초기화 할 수 없습니다.");
+        Log(L"ERROR: 윈속을 초기화 할 수 없습니다.");
         return 0;
     }
+
+    // IP 체크
+    wchar_t ipStr[INET6_ADDRSTRLEN] = {};
+    addrinfoW hints = {};
+    hints.ai_family = AF_INET;         // IPv4
+    hints.ai_socktype = SOCK_STREAM;
+    hints.ai_protocol = IPPROTO_TCP;
+
+    addrinfoW* result = nullptr;
+
+    wchar_t gHostName[256] = {};
+    DWORD len = 256;
+    GetComputerNameW(gHostName, &len);
+
+    int res = GetAddrInfoW(gHostName, NULL, &hints, &result);
+    if (res != 0 || result == nullptr)
+    {
+        wsprintf(ipStr, L"getaddrinfo() error: %d", res);
+        Log(ipStr);
+    }
+    else
+    {
+        sockaddr_in* addr = (sockaddr_in*)result->ai_addr;
+
+        // IP 변환
+        InetNtopW(AF_INET, &addr->sin_addr, ipStr, INET6_ADDRSTRLEN);
+
+        // gHostName 이 wchar_t* 라는 전제 하에 로그 출력
+        wchar_t str[512] = {};
+        wsprintf(str, L"Host Name Is [ %s ] IP : [%s ]", gHostName, ipStr);
+        Log(str);
+
+        FreeAddrInfoW(result);
+    }
+
 
     //임계영역객체를 생성한다.
     ::InitializeCriticalSection(&g_criticalsection);
@@ -45,7 +95,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     //Ctrl+C 키를 눌렀을 때 이를 감지하고 처리할 함수를 등록한다.
     if (::SetConsoleCtrlHandler(
         (PHANDLER_ROUTINE)CtrlHandler, TRUE) == FALSE)
-        Log("ERROR: Ctrl+C 처리기를 등록할 수 없습니다.");
+        Log(L"ERROR: Ctrl+C 처리기를 등록할 수 없습니다.");
 
     //IOCP 생성
     g_Iocp = ::CreateIoCompletionPort(
@@ -55,9 +105,13 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
         0);				//스레드 개수는 OS에 맡김.
     if (g_Iocp == NULL)
     {
-        Log("ERORR: IOCP를 생성할 수 없습니다.");
+        Log(L"ERORR: IOCP를 생성할 수 없습니다.");
         return 0;
     }
+
+ 
+
+
 
     //IOCP 스레드들 생성
     HANDLE hThread;
@@ -95,14 +149,14 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     if (::bind(g_UserSocket,
         (SOCKADDR*)&addrsvr, sizeof(SOCKADDR_IN)) == SOCKET_ERROR)
     {
-        Log("ERROR: 유저 전용 포트가 이미 사용중입니다.");
+        Log(L"ERROR: 유저 전용 포트가 이미 사용중입니다.");
         ReleaseServer();
         return 0;
     }
 
     if (::listen(g_UserSocket, SOMAXCONN) == SOCKET_ERROR)
     {
-        Log("ERROR: 유저 리슨 상태로 전환할 수 없습니다.");
+        Log(L"ERROR: 유저 리슨 상태로 전환할 수 없습니다.");
         ReleaseServer();
         return 0;
     }
@@ -126,14 +180,14 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     if (::bind(g_ControlSocket,
         (SOCKADDR*)&addrsvr_c, sizeof(SOCKADDR_IN)) == SOCKET_ERROR)
     {
-        Log("ERROR: 컨트롤 전용 포트가 이미 사용중입니다.");
+        Log(L"ERROR: 컨트롤 전용 포트가 이미 사용중입니다.");
         ReleaseServer();
         return 0;
     }
 
     if (::listen(g_ControlSocket, SOMAXCONN) == SOCKET_ERROR)
     {
-        Log("ERROR:  컨트롤 전용 리슨 상태로 전환할 수 없습니다.");
+        Log(L"ERROR:  컨트롤 전용 리슨 상태로 전환할 수 없습니다.");
         ReleaseServer();
         return 0;
     }
@@ -143,22 +197,9 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
         (LPVOID)NULL, 0, &dwThreadID);
     ::CloseHandle(hThread);
 
-    Log("*** IOCP 서버를 시작합니다! ***");
 
-    // Initialize global strings
-    LoadStringW(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
-    LoadStringW(hInstance, IDC_IOCPSERVER, szWindowClass, MAX_LOADSTRING);
-    MyRegisterClass(hInstance);
 
-    // Perform application initialization:
-    if (!InitInstance (hInstance, nCmdShow))
-    {
-        return FALSE;
-    }
 
-    HACCEL hAccelTable = LoadAccelerators(hInstance, MAKEINTRESOURCE(IDC_IOCPSERVER));
-
-    MSG msg;
 
     // Main message loop:
     while (GetMessage(&msg, nullptr, 0, 0))
@@ -215,8 +256,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
    hInst = hInstance; // Store instance handle in our global variable
 
-   HWND hWnd = CreateWindowW(szWindowClass, szTitle, WS_OVERLAPPEDWINDOW,
-      CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
+   HWND hWnd = CreateWindowW(szWindowClass, szTitle, WS_OVERLAPPEDWINDOW | WS_VISIBLE, 0, 0, 480, 720, nullptr, nullptr, hInstance, nullptr);
 
    if (!hWnd)
    {
@@ -225,7 +265,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
    ShowWindow(hWnd, nCmdShow);
    UpdateWindow(hWnd);
-
+   gMainWnd = hWnd;
    return TRUE;
 }
 
@@ -243,6 +283,28 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
     switch (message)
     {
+    // 추가한 구문 : Log 보려고
+    case WM_CREATE:
+    {
+
+        int error = _mkdir("Log");
+
+        gListboxWindow = CreateWindowExW(WS_EX_CLIENTEDGE, L"listbox", L"", WS_CHILD | WS_VISIBLE | WS_VSCROLL | LBS_NOINTEGRALHEIGHT, 0, 0, 20, 0, hWnd, (HMENU)101, (HINSTANCE)(GetWindowLongPtr(hWnd, GWLP_HINSTANCE)), NULL);
+        if (gListboxWindow != NULL)
+        {
+            LOGFONT logfont;
+
+            memset(&logfont, 0, sizeof(LOGFONT));
+
+            logfont.lfCharSet = DEFAULT_CHARSET;
+            logfont.lfHeight = -12;
+            wcscpy_s(logfont.lfFaceName, L"Arial");
+            gArialFont = CreateFontIndirect(&logfont);
+            SendMessage(gListboxWindow, WM_SETFONT, (WPARAM)gArialFont, (LPARAM)0);
+        }
+
+    }
+    break;
     case WM_COMMAND:
         {
             int wmId = LOWORD(wParam);
@@ -260,6 +322,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             }
         }
         break;
+    case WM_SIZE:
+    {
+        // 문자 출력 윈도우 크기
+        if (wParam != SIZE_MINIMIZED)
+        {
+            MoveWindow(gListboxWindow, 0, 0, LOWORD(lParam), HIWORD(lParam), TRUE);
+        }
+    }break;
     case WM_PAINT:
         {
             PAINTSTRUCT ps;
@@ -306,7 +376,7 @@ BOOL CtrlHandler(DWORD dwType)
     {
         //ReleaseServer();
 
-        puts("*** 채팅서버를 종료합니다! ***");
+        Log(L"*** 채팅서버를 종료합니다! ***");
         ::WSACleanup();
         exit(0);
         return TRUE;
@@ -323,7 +393,10 @@ DWORD __stdcall IOCPThread(LPVOID pParam)
     LPWSAOVERLAPPED	pWol = NULL;
     BOOL			bResult;
 
-    Log("[IOCP 작업자 스레드 시작]");
+    Log(L"[IOCP Worker Thread Start!]");
+
+
+
 
     while (1)
     {            // GetQueuedCompletionStatus : 비동기 소켓 I/O가 완료되면 그 “결과”를 가져오는 함수다.
@@ -345,7 +418,7 @@ DWORD __stdcall IOCPThread(LPVOID pParam)
             {
                 g_UserMgr.Remove(pSession);
                 delete pWol;
-                Log("\tGQCS: 클라이언트가 정상적으로 연결을 종료함.");
+                Log(L"\tGQCS: 클라이언트가 정상적으로 연결을 종료함.");
             }
 
             /////////////////////////////////////////////////////////////
@@ -373,7 +446,7 @@ DWORD __stdcall IOCPThread(LPVOID pParam)
                     pWol,
                     NULL);
                 if (::WSAGetLastError() != WSA_IO_PENDING)
-                    Log("\tGQCS: ERROR: WSARecv()");
+                    Log(L"\tGQCS: ERROR: WSARecv()");
             }
         }
         else
@@ -385,7 +458,7 @@ DWORD __stdcall IOCPThread(LPVOID pParam)
             if (pWol == NULL)
             {
                 //IOCP 핸들이 닫힌 경우(서버를 종료하는 경우)도 해당된다.
-                Log("\tGQCS: IOCP 핸들이 닫혔습니다.");
+                Log(L"\tGQCS: IOCP 핸들이 닫혔습니다.");
                 break;
             }
 
@@ -400,16 +473,21 @@ DWORD __stdcall IOCPThread(LPVOID pParam)
                     delete pWol;
                 }
 
-                Log("\tGQCS: 서버 종료 혹은 비정상적 연결 종료");
+                Log(L"\tGQCS: 서버 종료 혹은 비정상적 연결 종료");
             }
         }
     }
+
+
+
 
     return 0;
 }
 
 DWORD __stdcall ThreadAcceptLoop(LPVOID pParam)
 {
+
+
     while (true)
     {
         SOCKADDR_IN clientAddr;
@@ -434,7 +512,7 @@ DWORD __stdcall ThreadAcceptLoop(LPVOID pParam)
             if (hClient == INVALID_SOCKET)
                 continue;
 
-            Log("[USER] 새 클라이언트 접속");
+            Log(L"[USER] 새 클라이언트 접속");
             int useridx = 0;
             g_UserMgr.AddUser(hClient, clientAddr, useridx);
             User* pUser = g_UserMgr.GetUser(useridx);
@@ -454,7 +532,7 @@ DWORD __stdcall ThreadAcceptLoop(LPVOID pParam)
             int ret = WSARecv(hClient, &wsaBuf, 1, &dwRecv, &dwFlag, pWol, NULL);
             if (ret == SOCKET_ERROR && WSAGetLastError() != WSA_IO_PENDING)
             {
-                Log("[USER] WSARecv 실패");
+                Log(L"[USER] WSARecv 실패");
                 closesocket(hClient);
                 g_UserMgr.Remove(pUser);  // 세션 제거 + delete
                 delete pWol;                // OVERLAPPED도 해제
@@ -468,7 +546,7 @@ DWORD __stdcall ThreadAcceptLoop(LPVOID pParam)
             if (hClient == INVALID_SOCKET)
                 continue;
 
-            Log("[CONTROL] 관제 클라이언트 접속");
+            Log(L"[CONTROL] 관제 클라이언트 접속");
 
             int useridx = 0;
             g_ControlMgr.AddControl(hClient, clientAddr, useridx);

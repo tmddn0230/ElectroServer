@@ -1,4 +1,6 @@
-#include "myGlobal.h"
+Ôªø#include "myGlobal.h"
+
+
 
 //#pragma warning ( disable : 4244 ) // conversion from 'LRESULT' to 'int', possible loss of data
 //#pragma warning ( disable : 4996 ) // This function or variable may be unsafe. Consider using vsprintf_s instead. 
@@ -11,7 +13,7 @@ HFONT gArialFont = NULL;
 int MAX_QUEUE = 0;
 int MAX_THREAD = 0;
 
-// extern ¡§¿« 
+// extern Ï†ïÏùò 
 CRITICAL_SECTION g_criticalsection;
 std::list<SOCKET> g_Client_list;
 SOCKET	g_UserSocket;
@@ -23,47 +25,89 @@ ControlManager g_ControlMgr;
 
 int logcount = 0;
 
-void Log(const char* format, ...)
+
+
+std::string WcharToAnsi(std::wstring strWchar)
 {
+	std::string ret;
+	if (strWchar.length() <= 0)
+		return ret;
+
+	int iLength = WideCharToMultiByte(CP_ACP, 0, strWchar.c_str(), -1, NULL, 0, NULL, FALSE);
+
+	char* pChar = new char[iLength + 1];
+	memset(pChar, 0, iLength + 1);
+
+	WideCharToMultiByte(CP_ACP, 0, strWchar.c_str(), -1, pChar, iLength + 1, NULL, FALSE);
+	ret = pChar;
+
+	SAFE_DELETE_ARRAY(pChar);
+
+	return ret;
+}
+
+std::string WcharToUtf8(std::wstring strWchar)
+{
+	std::string ret;
+	if (strWchar.length() <= 0)
+		return ret;
+
+	int iLength = WideCharToMultiByte(CP_UTF8, 0, strWchar.c_str(), -1, NULL, 0, NULL, FALSE);
+
+	char* pChar = new char[iLength + 1];
+	memset(pChar, 0, iLength + 1);
+
+	WideCharToMultiByte(CP_UTF8, 0, strWchar.c_str(), -1, pChar, iLength + 1, NULL, FALSE);
+	ret = pChar;
+
+	SAFE_DELETE_ARRAY(pChar);
+
+	return ret;
+}
+
+void Log(const wchar_t* format, ...)
+{
+
 	va_list argptr;
-	char msg[4096];
+	wchar_t msg[4096];
 	memset(msg, 0x00, sizeof(msg));
 	va_start(argptr, format);
-	vsprintf_s(msg, format, argptr);
+	vswprintf_s(msg, format, argptr);
 	va_end(argptr);
 
 	int count = 0;
-	count = SendMessage(gListboxWindow, LB_GETCOUNT, 0, 0);
+	count = SendMessageW(gListboxWindow, LB_GETCOUNT, 0, 0);
 	if (count > 1000)
 	{
-		SendMessage(gListboxWindow, LB_RESETCONTENT, 0, 0);
+		SendMessageW(gListboxWindow, LB_RESETCONTENT, 0, 0);
 		logcount++;
 	}
 
-	SendMessage(gListboxWindow, LB_INSERTSTRING, 0, (LPARAM)msg);
+	SendMessageW(gListboxWindow, LB_INSERTSTRING, 0, (LPARAM)msg);
 	char buffer[1024];
 	memset(buffer, 0x00, sizeof(buffer));
 	sprintf_s(buffer, "Log\\Log%d.txt", logcount);
-	DebugLog(buffer, "%s\n", msg);
+
+	std::string ansiLog = WcharToAnsi(msg);
+	DebugLog(buffer, "%s\n", ansiLog.c_str());
 }
 
 void DebugLog(char* filename, const char* format, ...)
 {
 	va_list argptr;
-	char msg[10000];
-	memset(msg, 0x00, sizeof(msg));
+	char msg[10000] = {};
 	va_start(argptr, format);
-	vsprintf_s(msg, format, argptr);
+	vsprintf_s(msg, sizeof(msg), format, argptr);
 	va_end(argptr);
 
 	FILE* fp = nullptr;
-	errno_t err = fopen_s(&fp, filename, "at"); // "w" ¥¬ µ§æÓæ≤±‚ "at" ¥¬ πÿø° √ﬂ∞° 
+	errno_t err = fopen_s(&fp, filename, "at");  
 
 	if (err != 0 || fp == nullptr) {
-		printf("∆ƒ¿œ ø≠±‚ Ω«∆–!\n");
+		printf("ÌååÏùº Ïó¥Í∏∞ Ïã§Ìå®!\n");
 	}
 	else {
-		fprintf(fp, "Hello!\n");
+		fprintf(fp, "%s\n", msg);  
 		fclose(fp);
 	}
 }

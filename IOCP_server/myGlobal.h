@@ -13,6 +13,7 @@ extern HWND gMainWnd;
 extern HWND gListboxWindow;
 extern HFONT gArialFont;
 
+
 extern int MAX_QUEUE;
 extern int MAX_THREAD;
 
@@ -23,9 +24,14 @@ extern SOCKET	g_ControlSocket;			// 관제 전용 리슨 소켓
 extern HANDLE	g_Iocp;					//IOCP 핸들
 
 
+
 extern UserManager    g_UserMgr;
 extern ControlManager g_ControlMgr;
 
+
+std::string WcharToAnsi(std::wstring strWchar);
+std::string WcharToUtf8(std::wstring strWchar);
+
 // 로그 작성용
-void Log(const char* format, ...);
+void Log(const wchar_t* format, ...);
 void DebugLog(char* filename, const char* format, ...);

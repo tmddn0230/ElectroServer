@@ -22,6 +22,8 @@ public:
 
 	bool AddControl(SOCKET sock, sockaddr_in ip, int& index);
 
+
+
 	/*
 	SendAll 만 구성 2개 밖에 모니터가 되지 않음. 연결된 모니터엔 데이터를 모두 보낼 예정
 	*/

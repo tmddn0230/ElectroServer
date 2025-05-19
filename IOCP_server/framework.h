@@ -13,8 +13,10 @@
 #include <malloc.h>
 #include <memory.h>
 #include <tchar.h>
-
+#include <direct.h>
+#include <string>
 #include <winsock2.h>
+#include <ws2tcpip.h>
 #pragma comment(lib, "ws2_32")
 //::TranmitFile() 함수를 사용하기 위한 헤더와 라이브러리 설정
 #include <Mswsock.h>
@@ -22,5 +24,4 @@
 #include <list>
 #include <iterator>
 #pragma comment(lib, "Mswsock")
-
 

@@ -426,6 +426,9 @@ DWORD __stdcall IOCPThread(LPVOID pParam)
             // Control 모두에게 Send 할 것
             else
             {
+                // 받은 패킷 해석
+                pSession->Parse(pSession->buffer, sizeof(pSession->buffer));
+
                 // control 에게 packet 전달
                 g_ControlMgr.SendAll(pSession->buffer, dwTransferredSize);
                 memset(pSession->buffer, 0, sizeof(pSession->buffer));

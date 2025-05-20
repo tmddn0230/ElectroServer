@@ -17,6 +17,9 @@ public:
 
 	bool Init(int index, SOCKET sock, sockaddr_in ip);
 
+	void Parse(char* packet, int recvSize);
+	void HandleElectroPacket(const std::string& json);
+
 	void Clear();
 	void LogOut();
 };

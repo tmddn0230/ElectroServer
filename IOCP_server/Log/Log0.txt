@@ -113,3 +113,57 @@ Host Name Is [ YU-LAPTOP ] IP : [172.30.1.98 ]
 
 [IOCP Worker Thread Start!]
 
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.72 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.72 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.72 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.72 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+

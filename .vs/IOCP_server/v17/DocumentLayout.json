@@ -3,60 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\IOCP_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\IOCP_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\myGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\myGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\UserManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\ControlManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\ControlManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myDefine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\myDefine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\Control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\Control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\ControlManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\ControlManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\IOCP_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\IOCP_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\UserManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myDefine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\myDefine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\myGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\myGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\IOCP_server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\IOCP_server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\ControlManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\ControlManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\Control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\ControlManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\ControlManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\Control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|solutionrelative:IOCP_server\\UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFCB8011-6C56-4973-8999-099458A05D30}|IOCP_server\\IOCP_server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -70,37 +77,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.cpp",
-              "RelativeDocumentMoniker": "IOCP_server\\User.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.cpp",
-              "RelativeToolTip": "IOCP_server\\User.cpp",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwC0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T09:48:05.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserManager.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.h",
-              "RelativeDocumentMoniker": "IOCP_server\\UserManager.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.h",
-              "RelativeToolTip": "IOCP_server\\UserManager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "DocumentIndex": 6,
+              "Title": "Packet.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Packet.h",
+              "RelativeDocumentMoniker": "IOCP_server\\Packet.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Packet.h",
+              "RelativeToolTip": "IOCP_server\\Packet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-10T08:49:16.512Z",
+              "WhenOpened": "2025-05-20T08:19:12.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAjwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T08:07:49.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "myGlobal.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myGlobal.cpp",
               "RelativeDocumentMoniker": "IOCP_server\\myGlobal.cpp",
@@ -113,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ControlManager.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\ControlManager.h",
               "RelativeDocumentMoniker": "IOCP_server\\ControlManager.h",
@@ -126,33 +133,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "User.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.h",
               "RelativeDocumentMoniker": "IOCP_server\\User.h",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.h",
               "RelativeToolTip": "IOCP_server\\User.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-10T08:32:38.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserManager.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.cpp",
-              "RelativeDocumentMoniker": "IOCP_server\\UserManager.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.cpp",
-              "RelativeToolTip": "IOCP_server\\UserManager.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAADwvy8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T08:54:02.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "IOCP_server.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\IOCP_server.h",
               "RelativeDocumentMoniker": "IOCP_server\\IOCP_server.h",
@@ -160,11 +154,12 @@
               "RelativeToolTip": "IOCP_server\\IOCP_server.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-10T08:31:07.674Z"
+              "WhenOpened": "2025-05-10T08:31:07.674Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "myGlobal.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myGlobal.h",
               "RelativeDocumentMoniker": "IOCP_server\\myGlobal.h",
@@ -177,20 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IOCP_server.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\IOCP_server.cpp",
               "RelativeDocumentMoniker": "IOCP_server\\IOCP_server.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\IOCP_server.cpp",
               "RelativeToolTip": "IOCP_server\\IOCP_server.cpp",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAAwE8AAAAQAAAA",
+              "ViewState": "AQIAAKEBAAAAAAAAAAAowK0BAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-10T08:24:37.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "framework.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\framework.h",
               "RelativeDocumentMoniker": "IOCP_server\\framework.h",
@@ -204,6 +199,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "myDefine.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myDefine.h",
+              "RelativeDocumentMoniker": "IOCP_server\\myDefine.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myDefine.h",
+              "RelativeToolTip": "IOCP_server\\myDefine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:34:10.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.cpp",
+              "RelativeDocumentMoniker": "IOCP_server\\User.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\User.cpp",
+              "RelativeToolTip": "IOCP_server\\User.cpp",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T09:48:05.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.cpp",
+              "RelativeDocumentMoniker": "IOCP_server\\UserManager.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.cpp",
+              "RelativeToolTip": "IOCP_server\\UserManager.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T08:54:02.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ControlManager.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\ControlManager.cpp",
               "RelativeDocumentMoniker": "IOCP_server\\ControlManager.cpp",
@@ -211,25 +245,11 @@
               "RelativeToolTip": "IOCP_server\\ControlManager.cpp",
               "ViewState": "AQIAADIAAAAAAAAAAADwv0wAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-19T05:13:19.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T05:13:19.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "myDefine.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myDefine.h",
-              "RelativeDocumentMoniker": "IOCP_server\\myDefine.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\myDefine.h",
-              "RelativeToolTip": "IOCP_server\\myDefine.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-10T08:34:10.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Control.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Control.h",
               "RelativeDocumentMoniker": "IOCP_server\\Control.h",
@@ -242,7 +262,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
+              "Title": "UserManager.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.h",
+              "RelativeDocumentMoniker": "IOCP_server\\UserManager.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\UserManager.h",
+              "RelativeToolTip": "IOCP_server\\UserManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:49:16.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Control.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\Control.cpp",
               "RelativeDocumentMoniker": "IOCP_server\\Control.cpp",
@@ -250,12 +282,11 @@
               "RelativeToolTip": "IOCP_server\\Control.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-19T05:12:50.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T05:12:50.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "targetver.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ElectroServer\\IOCP_server\\targetver.h",
               "RelativeDocumentMoniker": "IOCP_server\\targetver.h",

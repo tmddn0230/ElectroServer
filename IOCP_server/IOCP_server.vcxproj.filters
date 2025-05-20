@@ -44,6 +44,9 @@
     <ClInclude Include="ControlManager.h">
       <Filter>Source Files\Clients</Filter>
     </ClInclude>
+    <ClInclude Include="Packet.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IOCP_server.cpp">

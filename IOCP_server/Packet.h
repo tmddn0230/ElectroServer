@@ -1,5 +1,5 @@
 #pragma once
-#pragma pack(1)
+#pragma pack(push, 1)
 
 #include "myDefine.h"
 
@@ -21,5 +21,7 @@ struct stHeader
 		nCheckSum = nType + nSize;
 	};
 };
+
+#pragma pack(pop)  // ← 여기서 원래대로 정렬 복구
 
 #define HEADSIZE sizeof( stHeader )

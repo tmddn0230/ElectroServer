@@ -47,6 +47,9 @@
     <ClInclude Include="Packet.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="protocol.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IOCP_server.cpp">

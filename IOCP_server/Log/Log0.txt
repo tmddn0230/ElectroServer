@@ -511,3 +511,25 @@ AddUser: 0 127.0.0.1
 
 [서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-05-21T15:09:56","voltage":15.6657,"current":0,"power":0,"power_factor":0.931336,"frequency":59.3,"status":"FAIL"}
 
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+

@@ -2,23 +2,38 @@
 #pragma pack(push, 1)
 
 #include "myDefine.h"
+#include "protocol.h"
 
 struct stHeader
 {
 	// unsigned short  = uint16
+	unsigned short  nProtocol;
 	unsigned short  nSize;
 	unsigned short  nType;
 	unsigned short  nCheckSum;
 
 	stHeader()
 	{
-		nSize = nType = nCheckSum = 0;
+		nProtocol = nSize = nType = nCheckSum = 0;
 	};
-	void SetHeader(int len)
+	void SetHeader(int protocol, int len)
 	{
+		nProtocol = nProtocol;
 		nSize = len;
 		nType = ELECTRO;
-		nCheckSum = nType + nSize;
+		nCheckSum = nType + nSize + nProtocol;
+	};
+};
+
+struct stConnectAck : public stHeader
+{
+	// Connect
+	unsigned short Index;
+	stConnectAck()
+	{
+		Index = 0;
+
+		SetHeader(prConnectAck, sizeof(stConnectAck));
 	};
 };
 

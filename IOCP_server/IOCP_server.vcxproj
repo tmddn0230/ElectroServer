@@ -134,6 +134,7 @@
     <ClInclude Include="myDefine.h" />
     <ClInclude Include="myGlobal.h" />
     <ClInclude Include="Packet.h" />
+    <ClInclude Include="protocol.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="User.h" />

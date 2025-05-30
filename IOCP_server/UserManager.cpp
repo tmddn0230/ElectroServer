@@ -1,7 +1,7 @@
 #include "UserManager.h"
 #include "myGlobal.h"
 #include "myDefine.h"
-
+#include "Packet.h"
 
 UserManager::UserManager(void)
 {
@@ -53,8 +53,14 @@ bool UserManager::AddUser(SOCKET sock, sockaddr_in ip, int& index)
 
 		index = i;
 
-		return true;
+		// Packet¿ª Control ø° ∫∏≥ø
+		stConnectAck ack;
+		ack.Index = i;// test code
+		char buffer[sizeof(stConnectAck)];
+		memset(buffer, 0x00, sizeof(buffer));
+		g_ControlMgr.SendAll(buffer, sizeof(stConnectAck));
 
+		return true;
 	}
 	return false;
 }

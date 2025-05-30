@@ -47,9 +47,13 @@ void User::Parse(char* packet, int recvSize)
     }
 
     // 타입 분기
-    switch (pHeader->nType)
+    switch (pHeader->nProtocol)
     {
-    case ELECTRO:
+    case prConnectAck:
+        break;
+
+
+    case prData:
     {
         int jsonLen = pHeader->nSize - sizeof(stHeader);
         if (jsonLen <= 0) return;
@@ -60,7 +64,7 @@ void User::Parse(char* packet, int recvSize)
     }
 
     default:
-        Log(L"[서버] 알 수 없는 패킷 타입: %d", pHeader->nType);
+        Log(L"[서버] 알 수 없는 패킷 타입: %d", pHeader->nProtocol);
         break;
     }
 }

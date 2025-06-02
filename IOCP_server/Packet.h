@@ -3,6 +3,7 @@
 
 #include "myDefine.h"
 #include "protocol.h"
+#include <vector> 
 
 struct stHeader
 {
@@ -36,6 +37,18 @@ struct stConnectAck : public stHeader
 		SetHeader(prConnectAck, sizeof(stConnectAck));
 	};
 };
+
+struct stData : public stHeader
+{
+	// Data Size = header + payload
+	unsigned short totalSize;
+	stData()
+	{
+		totalSize = 0;
+		SetHeader(prData, sizeof(stData));
+	}
+};
+
 
 #pragma pack(pop)  // ← 여기서 원래대로 정렬 복구
 

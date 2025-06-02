@@ -62,6 +62,8 @@ bool ControlManager::AddControl(SOCKET sock, sockaddr_in ip, int& index)
 void ControlManager::SendAll(char* buff, int size)
 {
 	::EnterCriticalSection(&g_criticalsection);
+	Log(L"[CONTROL] send Test");
+
 	for (auto& control : mControl)
 	{
 		if (control.mhSocket == NULL)

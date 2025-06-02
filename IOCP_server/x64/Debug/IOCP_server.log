@@ -1,5 +1,8 @@
 ﻿  User.cpp
-C:\Users\user\Documents\GitHub\ElectroServer\IOCP_server\Packet.h(40,9): warning C4161: #pragma pack(pop...): 푸시 횟수보다 팝 횟수가 많습니다.
+C:\Users\user\Documents\GitHub\ElectroServer\IOCP_server\Packet.h(53,9): warning C4161: #pragma pack(pop...): 푸시 횟수보다 팝 횟수가 많습니다.
+  UserManager.cpp
+C:\Users\user\Documents\GitHub\ElectroServer\IOCP_server\Packet.h(53,9): warning C4161: #pragma pack(pop...): 푸시 횟수보다 팝 횟수가 많습니다.
+  코드를 생성하고 있습니다...
   IOCP_server.vcxproj -> C:\Users\user\Documents\GitHub\ElectroServer\x64\Debug\IOCP_server.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.

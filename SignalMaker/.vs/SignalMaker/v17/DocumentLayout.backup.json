@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\SignalMaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:SignalMaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:Generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Generator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:Generator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Serializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:Serializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Serializer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:Serializer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED92058E-DF33-488B-B4AB-93B7ECF8A8DE}|SignalMaker.vcxproj|solutionrelative:Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generator.h",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Generator.h",
+              "RelativeDocumentMoniker": "Generator.h",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Generator.h",
+              "RelativeToolTip": "Generator.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T07:35:50.22Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "winnt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ViewState": "AgIAANcJAAAAAAAAAAAhwOYJAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T08:54:23.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Packet.h",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Packet.h",
+              "RelativeDocumentMoniker": "Packet.h",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Packet.h",
+              "RelativeToolTip": "Packet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T08:34:09.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Serializer.cpp",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Serializer.cpp",
+              "RelativeDocumentMoniker": "Serializer.cpp",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Serializer.cpp",
+              "RelativeToolTip": "Serializer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T08:05:10.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Serializer.h",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Serializer.h",
+              "RelativeDocumentMoniker": "Serializer.h",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Serializer.h",
+              "RelativeToolTip": "Serializer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T08:04:03.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Defines.h",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Defines.h",
+              "RelativeDocumentMoniker": "Defines.h",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Defines.h",
+              "RelativeToolTip": "Defines.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T07:53:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generator.cpp",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Generator.cpp",
+              "RelativeDocumentMoniker": "Generator.cpp",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\Generator.cpp",
+              "RelativeToolTip": "Generator.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAnwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T07:38:35.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalMaker.cpp",
+              "DocumentMoniker": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\SignalMaker.cpp",
+              "RelativeDocumentMoniker": "SignalMaker.cpp",
+              "ToolTip": "C:\\Users\\You\\Documents\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\SignalMaker\\SignalMaker\\SignalMaker.cpp",
+              "RelativeToolTip": "SignalMaker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T07:24:38.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

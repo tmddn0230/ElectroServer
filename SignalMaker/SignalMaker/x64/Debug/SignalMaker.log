@@ -1,0 +1,8 @@
+﻿  SignalMaker.cpp
+C:\Users\user\Desktop\SignalMaker\SignalMaker\Packet.h(6,1): warning C4103: 헤더를 포함한 후 맞춤 방식이 변경된 것은 #pragma pack(pop)이 없기 때문일 수 있습니다.
+C:\Users\user\Desktop\SignalMaker\SignalMaker\Packet.h(55,9): warning C4161: #pragma pack(pop...): 푸시 횟수보다 팝 횟수가 많습니다.
+C:\Users\user\Desktop\SignalMaker\SignalMaker\SignalMaker.cpp(58,31): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\SignalMaker\SignalMaker\SignalMaker.cpp(66,42): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SignalMaker.vcxproj -> C:\Users\user\Desktop\SignalMaker\SignalMaker\x64\Debug\SignalMaker.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

@@ -33,7 +33,7 @@ void User::Parse(char* packet, int recvSize)
     stHeader* pHeader = (stHeader*)buffer;
 
     // 무결성 확인
-    if (pHeader->nCheckSum != (pHeader->nSize + pHeader->nType))
+    if (pHeader->nCheckSum != (pHeader->nSize + pHeader->nType + pHeader->nProtocol))
     {
         Log(L"[User] ERROR: Wrong CheckSum");
         return;
@@ -72,6 +72,8 @@ void User::Parse(char* packet, int recvSize)
 void User::HandleElectroPacket(const std::string& json)
 {
     Log(L"[서버] 전기 패킷 수신: %S", json.c_str());
+
+   
 
     // 파싱 로직은 JSON 파서에 따라 선택:
     // - 직접 split

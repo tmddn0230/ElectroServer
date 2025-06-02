@@ -533,3 +533,1895 @@ Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
 
 AddControl: 0 127.0.0.1
 
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[서버] 알 수 없는 패킷 타입: 0
+
+	GQCS: ERROR: WSARecv()
+
+	GQCS: ERROR: WSARecv()
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[서버] 알 수 없는 패킷 타입: 0
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[서버] 알 수 없는 패킷 타입: 0
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[User] ERROR: Wrong CheckSum
+
+[User] ERROR: Wrong CheckSum
+
+[User] ERROR: Wrong CheckSum
+
+[User] ERROR: Wrong CheckSum
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:40","voltage":221.431,"current":1.7861,"power_factor":0.958266,"frequency":59.9898,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:41","voltage":221.154,"current":0.676228,"power_factor":0.94816,"frequency":59.988,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:42","voltage":218.042,"current":0.653083,"power_factor":0.932405,"frequency":60.0126,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:43","voltage":218.952,"current":0.890886,"power_factor":0.937938,"frequency":60.0004,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:44","voltage":218.983,"current":0.649759,"power_factor":0.968212,"frequency":59.9953,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:45","voltage":221.977,"current":1.07039,"power_factor":0.958175,"frequency":59.9817,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:46","voltage":220.244,"current":1.85806,"power_factor":0.962677,"frequency":59.9941,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:47","voltage":220.982,"current":1.94584,"power_factor":0.953521,"frequency":60.0079,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:48","voltage":219.519,"current":1.62889,"power_factor":0.9592,"frequency":60.0189,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:49","voltage":219.513,"current":0.911755,"power_factor":0.948066,"frequency":60.0178,"status":"NORMAL"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:50","voltage":215.018,"current":5.92664,"power_factor":0.969568,"frequency":59.8061,"status":"OVERLOAD"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:51","voltage":213.488,"current":8.9585,"power_factor":0.9307,"frequency":59.8231,"status":"OVERLOAD"}
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:35:52","voltage":213.94,"current":8.16158,"power_factor":0.931462,"frequency":59.8202,"status":"OVERLOAD"}
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:30","voltage":219.482,"current":1.26233,"power_factor":0.945176,"frequency":59.9988,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:31","voltage":220.212,"current":1.37704,"power_factor":0.939712,"frequency":59.9841,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:32","voltage":218.765,"current":0.61215,"power_factor":0.9666,"frequency":59.99,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:33","voltage":219.339,"current":1.76571,"power_factor":0.969368,"frequency":60.0134,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:34","voltage":219.583,"current":1.05827,"power_factor":0.955882,"frequency":59.9838,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:35","voltage":219.389,"current":1.49383,"power_factor":0.933952,"frequency":60.0077,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:36","voltage":221.322,"current":0.595266,"power_factor":0.940296,"frequency":60.0057,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:37","voltage":221.049,"current":1.72913,"power_factor":0.962747,"frequency":60.0071,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:38","voltage":221.498,"current":1.60779,"power_factor":0.953859,"frequency":59.9988,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:39","voltage":221.151,"current":0.77783,"power_factor":0.967468,"frequency":60.0016,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:40","voltage":212.062,"current":7.56378,"power_factor":0.967803,"frequency":59.8074,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:41","voltage":213.207,"current":9.29139,"power_factor":0.934843,"frequency":59.8073,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:42","voltage":214.971,"current":8.06805,"power_factor":0.942965,"frequency":59.83,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:43","voltage":214.734,"current":7.94026,"power_factor":0.959668,"frequency":59.8279,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:44","voltage":213.167,"current":8.12314,"power_factor":0.943077,"frequency":59.83,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:45","voltage":213.607,"current":5.50376,"power_factor":0.952633,"frequency":59.8179,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:46","voltage":212.69,"current":8.77097,"power_factor":0.936059,"frequency":59.8018,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T13:37:47","voltage":214.217,"current":8.31354,"power_factor":0.967563,"frequency":59.835,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:05","voltage":221.579,"current":1.29864,"power_factor":0.967226,"frequency":60.0099,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:06","voltage":219.528,"current":1.04588,"power_factor":0.967862,"frequency":60.02,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:07","voltage":219.163,"current":1.59574,"power_factor":0.958378,"frequency":59.9837,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:08","voltage":220.135,"current":0.877794,"power_factor":0.934789,"frequency":60.0176,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:09","voltage":218.203,"current":1.27795,"power_factor":0.940968,"frequency":59.9966,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:10","voltage":218.789,"current":1.3032,"power_factor":0.959479,"frequency":60.0104,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:11","voltage":218.675,"current":1.72543,"power_factor":0.962927,"frequency":59.994,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:12","voltage":221.351,"current":1.00746,"power_factor":0.950242,"frequency":60.0053,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:13","voltage":218.327,"current":0.567783,"power_factor":0.932709,"frequency":60.0078,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:14","voltage":219.312,"current":0.555582,"power_factor":0.967943,"frequency":59.998,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:15","voltage":212.609,"current":7.5157,"power_factor":0.949311,"frequency":59.8328,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:16","voltage":212.333,"current":6.41517,"power_factor":0.935122,"frequency":59.8262,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:17","voltage":215.667,"current":5.32321,"power_factor":0.931684,"frequency":59.8361,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:18","voltage":215.755,"current":5.32358,"power_factor":0.961644,"frequency":59.8187,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:19","voltage":214.971,"current":9.43265,"power_factor":0.946612,"frequency":59.8325,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:20","voltage":215.076,"current":6.68838,"power_factor":0.956692,"frequency":59.8065,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:21","voltage":214.423,"current":6.88466,"power_factor":0.952571,"frequency":59.8331,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:22","voltage":214.223,"current":8.3554,"power_factor":0.966342,"frequency":59.8495,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:23","voltage":212.71,"current":6.60225,"power_factor":0.952509,"frequency":59.8135,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:24","voltage":212.606,"current":9.1985,"power_factor":0.964713,"frequency":59.8375,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:25","voltage":12.9757,"current":0,"power_factor":0.959127,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:26","voltage":13.8392,"current":0,"power_factor":0.934035,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:27","voltage":5.87615,"current":0,"power_factor":0.939241,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:28","voltage":10.7415,"current":0,"power_factor":0.945359,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:29","voltage":5.8532,"current":0,"power_factor":0.966792,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:30","voltage":12.3262,"current":0,"power_factor":0.951053,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:31","voltage":3.19385,"current":0,"power_factor":0.931163,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:32","voltage":18.0494,"current":0,"power_factor":0.939049,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:33","voltage":5.28963,"current":0,"power_factor":0.936465,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:34","voltage":5.65625,"current":0,"power_factor":0.953381,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:35","voltage":220.469,"current":1.45639,"power_factor":0.963757,"frequency":60.1968,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:36","voltage":220.13,"current":1.67104,"power_factor":0.941893,"frequency":59.8712,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:37","voltage":220.446,"current":1.09231,"power_factor":0.934788,"frequency":59.7044,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:38","voltage":220.805,"current":1.1997,"power_factor":0.950012,"frequency":60.155,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:39","voltage":220.238,"current":1.577,"power_factor":0.932902,"frequency":60.2593,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:40","voltage":220.23,"current":1.41985,"power_factor":0.951716,"frequency":59.9888,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:41","voltage":219.739,"current":1.672,"power_factor":0.961771,"frequency":60.257,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:42","voltage":219.599,"current":1.1344,"power_factor":0.950306,"frequency":59.8862,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:43","voltage":220.915,"current":1.46056,"power_factor":0.946784,"frequency":59.9182,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:44","voltage":220.461,"current":1.66118,"power_factor":0.960709,"frequency":60.1699,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:45","voltage":221.49,"current":1.80094,"power_factor":0.947724,"frequency":60.0089,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:46","voltage":219.242,"current":1.8434,"power_factor":0.958758,"frequency":59.9858,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:47","voltage":219.091,"current":0.644548,"power_factor":0.935968,"frequency":60.0061,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:48","voltage":218.285,"current":0.824192,"power_factor":0.96326,"frequency":60.0061,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:49","voltage":218.275,"current":0.677371,"power_factor":0.946498,"frequency":60.0052,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:50","voltage":219.844,"current":1.48727,"power_factor":0.953012,"frequency":60.0193,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:51","voltage":220.329,"current":0.689369,"power_factor":0.960653,"frequency":60.0131,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:52","voltage":218.805,"current":0.568061,"power_factor":0.954452,"frequency":59.9958,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:53","voltage":220.709,"current":1.02392,"power_factor":0.938472,"frequency":60.0119,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:54","voltage":220.098,"current":1.85072,"power_factor":0.960653,"frequency":59.9855,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:55","voltage":214.873,"current":9.36509,"power_factor":0.935767,"frequency":59.8216,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:56","voltage":213.967,"current":8.06983,"power_factor":0.956939,"frequency":59.8179,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:57","voltage":214.392,"current":7.92051,"power_factor":0.942683,"frequency":59.8251,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:58","voltage":214.963,"current":5.77732,"power_factor":0.963657,"frequency":59.8459,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:16:59","voltage":212.804,"current":9.85874,"power_factor":0.957535,"frequency":59.8083,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:00","voltage":214.22,"current":8.44137,"power_factor":0.945059,"frequency":59.8267,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:01","voltage":213.712,"current":7.68564,"power_factor":0.96798,"frequency":59.8316,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:02","voltage":212.377,"current":8.62252,"power_factor":0.936958,"frequency":59.8203,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:03","voltage":212.694,"current":5.12068,"power_factor":0.946588,"frequency":59.8477,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:04","voltage":215.306,"current":5.27408,"power_factor":0.959142,"frequency":59.8162,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:06","voltage":16.4373,"current":0,"power_factor":0.930609,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:07","voltage":9.49345,"current":0,"power_factor":0.956792,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:08","voltage":3.31507,"current":0,"power_factor":0.967984,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:09","voltage":2.46804,"current":0,"power_factor":0.960628,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:10","voltage":13.0131,"current":0,"power_factor":0.962479,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:11","voltage":15.8556,"current":0,"power_factor":0.966748,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:12","voltage":12.2891,"current":0,"power_factor":0.963157,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:13","voltage":5.7847,"current":0,"power_factor":0.954306,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:14","voltage":19.5068,"current":0,"power_factor":0.937093,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:15","voltage":3.80138,"current":0,"power_factor":0.951192,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:16","voltage":219.08,"current":1.44909,"power_factor":0.931812,"frequency":59.9926,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:17","voltage":220.331,"current":1.3434,"power_factor":0.955674,"frequency":60.2693,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:18","voltage":219.432,"current":1.48495,"power_factor":0.938304,"frequency":60.04,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:19","voltage":219.33,"current":1.46655,"power_factor":0.961527,"frequency":60.1008,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:20","voltage":219.036,"current":1.13188,"power_factor":0.967966,"frequency":60.0269,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:21","voltage":219.407,"current":1.75371,"power_factor":0.940088,"frequency":59.9388,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:22","voltage":219.505,"current":1.62274,"power_factor":0.967163,"frequency":60.1539,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:23","voltage":219.415,"current":1.68287,"power_factor":0.944665,"frequency":59.8137,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:24","voltage":219.77,"current":1.32835,"power_factor":0.965498,"frequency":59.9086,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:25","voltage":219.932,"current":1.54022,"power_factor":0.949418,"frequency":59.9941,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:26","voltage":219.198,"current":1.99003,"power_factor":0.936959,"frequency":59.9831,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:27","voltage":219.018,"current":1.98562,"power_factor":0.93762,"frequency":59.9954,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:28","voltage":219.093,"current":0.648341,"power_factor":0.934646,"frequency":59.9964,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:29","voltage":221.919,"current":0.823155,"power_factor":0.950495,"frequency":59.9905,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:30","voltage":220.745,"current":1.60339,"power_factor":0.961655,"frequency":59.9889,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:31","voltage":219.952,"current":1.4272,"power_factor":0.930516,"frequency":59.987,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:32","voltage":218.724,"current":1.24213,"power_factor":0.930121,"frequency":59.9807,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:33","voltage":220.517,"current":0.52767,"power_factor":0.943584,"frequency":59.9802,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:34","voltage":220.715,"current":1.4509,"power_factor":0.94558,"frequency":60.0024,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:35","voltage":220.633,"current":1.29987,"power_factor":0.949417,"frequency":60.015,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:36","voltage":215.5,"current":6.71665,"power_factor":0.945172,"frequency":59.8255,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:37","voltage":213.95,"current":7.94707,"power_factor":0.96711,"frequency":59.8128,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:38","voltage":214.103,"current":9.49403,"power_factor":0.956419,"frequency":59.847,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:39","voltage":213.963,"current":7.11988,"power_factor":0.959062,"frequency":59.8401,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:40","voltage":213.303,"current":5.86243,"power_factor":0.939095,"frequency":59.8293,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:41","voltage":215.141,"current":5.40551,"power_factor":0.962908,"frequency":59.8145,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:42","voltage":212.084,"current":7.3201,"power_factor":0.950283,"frequency":59.8157,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:43","voltage":215.996,"current":7.12272,"power_factor":0.969402,"frequency":59.8313,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:44","voltage":213.293,"current":7.52929,"power_factor":0.953792,"frequency":59.8032,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:45","voltage":213.794,"current":5.6593,"power_factor":0.957893,"frequency":59.8241,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:46","voltage":12.4093,"current":0,"power_factor":0.957917,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:47","voltage":2.31371,"current":0,"power_factor":0.95509,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:48","voltage":13.4984,"current":0,"power_factor":0.938753,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:49","voltage":5.29341,"current":0,"power_factor":0.964096,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:50","voltage":15.9538,"current":0,"power_factor":0.942248,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:51","voltage":3.81758,"current":0,"power_factor":0.933132,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:52","voltage":2.20266,"current":0,"power_factor":0.947086,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:53","voltage":17.6905,"current":0,"power_factor":0.939364,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:54","voltage":10.3802,"current":0,"power_factor":0.939047,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:55","voltage":9.71351,"current":0,"power_factor":0.93164,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:56","voltage":220.609,"current":1.42563,"power_factor":0.947547,"frequency":59.9872,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:57","voltage":220.626,"current":1.94098,"power_factor":0.956696,"frequency":60.2832,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:58","voltage":219.686,"current":1.99835,"power_factor":0.937405,"frequency":60.0176,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:17:59","voltage":220.971,"current":1.08032,"power_factor":0.944651,"frequency":59.9689,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:18:00","voltage":220.669,"current":1.885,"power_factor":0.948029,"frequency":59.7555,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:18:01","voltage":219.926,"current":1.29959,"power_factor":0.950698,"frequency":59.8995,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:18:02","voltage":219.591,"current":1.50652,"power_factor":0.938615,"frequency":60.0086,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T14:18:03","voltage":219.388,"current":1.86722,"power_factor":0.947155,"frequency":59.7205,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:23","voltage":220.19,"current":1.62471,"power_factor":0.944232,"frequency":60.0041,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:24","voltage":219.764,"current":0.9777,"power_factor":0.942073,"frequency":59.9903,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:25","voltage":219.896,"current":1.63052,"power_factor":0.948139,"frequency":60.0154,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:26","voltage":220.47,"current":0.783126,"power_factor":0.950901,"frequency":59.9878,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:27","voltage":218.209,"current":0.5694,"power_factor":0.95372,"frequency":59.9957,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:28","voltage":219.913,"current":0.640041,"power_factor":0.943974,"frequency":60.0113,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:29","voltage":219.535,"current":0.987353,"power_factor":0.952786,"frequency":59.9919,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:30","voltage":218.244,"current":0.555996,"power_factor":0.931913,"frequency":60.006,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:31","voltage":219.536,"current":1.35231,"power_factor":0.952245,"frequency":60.01,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:32","voltage":219.11,"current":0.635523,"power_factor":0.935228,"frequency":59.9978,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:33","voltage":213.925,"current":5.51434,"power_factor":0.957828,"frequency":59.8085,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:34","voltage":214.576,"current":8.20407,"power_factor":0.945036,"frequency":59.8461,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:35","voltage":214.145,"current":6.89688,"power_factor":0.966969,"frequency":59.845,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:36","voltage":215.434,"current":9.49712,"power_factor":0.96224,"frequency":59.8063,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:37","voltage":212.608,"current":8.10846,"power_factor":0.934872,"frequency":59.8335,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:38","voltage":213.408,"current":9.87384,"power_factor":0.937636,"frequency":59.8473,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:39","voltage":212.157,"current":6.60808,"power_factor":0.969588,"frequency":59.808,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:40","voltage":212.11,"current":9.37027,"power_factor":0.934668,"frequency":59.8176,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:41","voltage":214.105,"current":6.20625,"power_factor":0.953139,"frequency":59.8418,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:42","voltage":215.418,"current":9.89031,"power_factor":0.950342,"frequency":59.8159,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:43","voltage":7.28955,"current":0,"power_factor":0.944693,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:44","voltage":16.7741,"current":0,"power_factor":0.934289,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:45","voltage":16.3458,"current":0,"power_factor":0.9628,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:46","voltage":2.11388,"current":0,"power_factor":0.969358,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:47","voltage":11.3281,"current":0,"power_factor":0.93823,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:48","voltage":11.7453,"current":0,"power_factor":0.932286,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:49","voltage":18.9902,"current":0,"power_factor":0.957365,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:50","voltage":19.994,"current":0,"power_factor":0.95562,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:51","voltage":11.7961,"current":0,"power_factor":0.941944,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:52","voltage":0.428732,"current":0,"power_factor":0.934648,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:53","voltage":220.71,"current":1.36141,"power_factor":0.944771,"frequency":60.1806,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:54","voltage":220.029,"current":1.9402,"power_factor":0.954298,"frequency":59.7865,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:55","voltage":219.011,"current":1.90329,"power_factor":0.969341,"frequency":60.233,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:56","voltage":219.459,"current":1.15338,"power_factor":0.966219,"frequency":60.0007,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:57","voltage":219.545,"current":1.13637,"power_factor":0.95254,"frequency":60.2193,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:58","voltage":219.407,"current":1.89059,"power_factor":0.967593,"frequency":60.1944,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T15:59:59","voltage":219.818,"current":1.12221,"power_factor":0.947734,"frequency":60.1291,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:00","voltage":219.05,"current":1.49602,"power_factor":0.958237,"frequency":59.9476,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:01","voltage":219.994,"current":1.57181,"power_factor":0.963914,"frequency":60.0429,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:02","voltage":220.265,"current":1.19757,"power_factor":0.957684,"frequency":60.0325,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:03","voltage":221.916,"current":1.35871,"power_factor":0.955677,"frequency":59.9805,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:04","voltage":220.879,"current":1.41484,"power_factor":0.9367,"frequency":59.9997,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:05","voltage":218.848,"current":0.548047,"power_factor":0.955409,"frequency":59.9865,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:06","voltage":218.618,"current":0.724877,"power_factor":0.931717,"frequency":60.0153,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:07","voltage":220.363,"current":1.14725,"power_factor":0.931441,"frequency":59.9903,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:08","voltage":219.112,"current":1.85214,"power_factor":0.947196,"frequency":59.9992,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[CONTROL] send 실패. 세션 제거 예정
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:09","voltage":221.895,"current":1.09318,"power_factor":0.956524,"frequency":59.9926,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:10","voltage":218.031,"current":1.07803,"power_factor":0.934435,"frequency":59.9927,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:11","voltage":221.925,"current":1.28707,"power_factor":0.953276,"frequency":59.988,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:00:12","voltage":221.269,"current":1.56792,"power_factor":0.954416,"frequency":59.986,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 1 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 1 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:10","voltage":218.388,"current":1.45527,"power_factor":0.946473,"frequency":59.9878,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:11","voltage":219.18,"current":1.02302,"power_factor":0.94785,"frequency":60.0007,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:12","voltage":219.997,"current":0.773375,"power_factor":0.956452,"frequency":60.0186,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:13","voltage":220.217,"current":0.589281,"power_factor":0.965644,"frequency":60.0123,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:14","voltage":220.951,"current":0.984634,"power_factor":0.931513,"frequency":60.0018,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:15","voltage":218.67,"current":1.62807,"power_factor":0.967985,"frequency":59.9958,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:17","voltage":218.421,"current":0.783529,"power_factor":0.96239,"frequency":59.9863,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:18","voltage":218.764,"current":1.59772,"power_factor":0.964768,"frequency":59.9846,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:19","voltage":220.221,"current":0.589693,"power_factor":0.956891,"frequency":60.0173,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:20","voltage":221.893,"current":0.588589,"power_factor":0.934605,"frequency":59.9819,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:21","voltage":215.023,"current":6.92238,"power_factor":0.933116,"frequency":59.8403,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:22","voltage":214.868,"current":5.02261,"power_factor":0.949141,"frequency":59.8366,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:23","voltage":214.537,"current":7.2104,"power_factor":0.935826,"frequency":59.8453,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:24","voltage":212.448,"current":8.70741,"power_factor":0.96659,"frequency":59.807,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:25","voltage":213.057,"current":6.84139,"power_factor":0.967756,"frequency":59.811,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:26","voltage":212.711,"current":9.8493,"power_factor":0.932664,"frequency":59.8105,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:27","voltage":214.251,"current":9.8952,"power_factor":0.934196,"frequency":59.8427,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:28","voltage":212.74,"current":6.1581,"power_factor":0.935096,"frequency":59.8468,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:29","voltage":215.747,"current":5.27539,"power_factor":0.963274,"frequency":59.8335,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:30","voltage":212.728,"current":9.16335,"power_factor":0.949131,"frequency":59.8469,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:31","voltage":3.95395,"current":0,"power_factor":0.960624,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:32","voltage":10.7461,"current":0,"power_factor":0.963168,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:33","voltage":12.8846,"current":0,"power_factor":0.946719,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:34","voltage":1.403,"current":0,"power_factor":0.969875,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:35","voltage":1.78294,"current":0,"power_factor":0.944568,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:36","voltage":2.74143,"current":0,"power_factor":0.965719,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:37","voltage":2.56829,"current":0,"power_factor":0.944697,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:38","voltage":17.926,"current":0,"power_factor":0.948603,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:39","voltage":9.29648,"current":0,"power_factor":0.95646,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:40","voltage":0.280447,"current":0,"power_factor":0.942872,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:41","voltage":219.654,"current":1.30205,"power_factor":0.959771,"frequency":59.8741,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:42","voltage":220.492,"current":1.50323,"power_factor":0.956799,"frequency":59.83,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:43","voltage":219.452,"current":1.75968,"power_factor":0.948718,"frequency":59.776,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:44","voltage":220.059,"current":1.15386,"power_factor":0.957836,"frequency":60.0818,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[CONTROL] send 실패. 세션 제거 예정
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:45","voltage":219.041,"current":1.15245,"power_factor":0.933283,"frequency":60.1943,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:46","voltage":219.357,"current":1.40794,"power_factor":0.932066,"frequency":60.035,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:47","voltage":219.155,"current":1.44335,"power_factor":0.957166,"frequency":60.293,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:48","voltage":220.237,"current":1.65651,"power_factor":0.953862,"frequency":59.9205,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:49","voltage":220.138,"current":1.20146,"power_factor":0.966871,"frequency":59.8076,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:50","voltage":219.339,"current":1.5961,"power_factor":0.950323,"frequency":59.865,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:51","voltage":218.151,"current":0.991396,"power_factor":0.932814,"frequency":59.9972,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:52","voltage":220.047,"current":1.29892,"power_factor":0.965579,"frequency":60.0006,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:53","voltage":218.35,"current":0.923508,"power_factor":0.943381,"frequency":60.0116,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:54","voltage":218.61,"current":1.23675,"power_factor":0.936181,"frequency":60.01,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:55","voltage":221.386,"current":1.94341,"power_factor":0.952879,"frequency":60.0125,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:56","voltage":221.624,"current":1.73664,"power_factor":0.964782,"frequency":59.9865,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:57","voltage":218.011,"current":1.58444,"power_factor":0.951302,"frequency":60.0135,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:58","voltage":218.669,"current":0.620604,"power_factor":0.938747,"frequency":59.9841,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:30:59","voltage":219.085,"current":0.727719,"power_factor":0.957221,"frequency":60.0117,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:31:00","voltage":218.179,"current":1.13716,"power_factor":0.953913,"frequency":60.0157,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:31:01","voltage":214.688,"current":7.77026,"power_factor":0.952963,"frequency":59.8082,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:31:02","voltage":213.197,"current":6.31779,"power_factor":0.9408,"frequency":59.8361,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:31:03","voltage":212.587,"current":9.26218,"power_factor":0.94794,"frequency":59.8082,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:52","voltage":218.993,"current":1.5948,"power_factor":0.935413,"frequency":60.0001,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:53","voltage":219.036,"current":1.62776,"power_factor":0.951625,"frequency":59.9876,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:54","voltage":220.728,"current":1.87913,"power_factor":0.950519,"frequency":60.0034,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:55","voltage":220.677,"current":1.80947,"power_factor":0.950763,"frequency":60.0025,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:56","voltage":218.237,"current":1.22843,"power_factor":0.95391,"frequency":59.9907,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:57","voltage":219.85,"current":1.6146,"power_factor":0.938091,"frequency":59.9886,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:58","voltage":221.552,"current":1.32572,"power_factor":0.969181,"frequency":60.0007,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:34:59","voltage":219.338,"current":1.69994,"power_factor":0.945819,"frequency":60.0028,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:00","voltage":219.324,"current":1.19226,"power_factor":0.941119,"frequency":60.0163,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:01","voltage":221.056,"current":1.62478,"power_factor":0.935217,"frequency":59.9834,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:02","voltage":213.077,"current":5.99657,"power_factor":0.936053,"frequency":59.8485,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:03","voltage":214.263,"current":7.19914,"power_factor":0.950705,"frequency":59.8075,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:04","voltage":212.214,"current":7.26096,"power_factor":0.954148,"frequency":59.8414,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:05","voltage":213.668,"current":7.12106,"power_factor":0.948694,"frequency":59.8429,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:06","voltage":214.795,"current":5.16416,"power_factor":0.966116,"frequency":59.836,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:07","voltage":212.781,"current":7.58954,"power_factor":0.968637,"frequency":59.8159,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:08","voltage":212.793,"current":9.15045,"power_factor":0.939458,"frequency":59.8043,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:09","voltage":213.035,"current":6.69213,"power_factor":0.934341,"frequency":59.8121,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:10","voltage":214.517,"current":6.31482,"power_factor":0.943496,"frequency":59.8063,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:11","voltage":214.582,"current":7.72252,"power_factor":0.935293,"frequency":59.8052,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:12","voltage":18.3403,"current":0,"power_factor":0.962195,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:13","voltage":1.62994,"current":0,"power_factor":0.960264,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:14","voltage":12.2718,"current":0,"power_factor":0.96001,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:15","voltage":10.5526,"current":0,"power_factor":0.968384,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:16","voltage":4.978,"current":0,"power_factor":0.953441,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:17","voltage":19.182,"current":0,"power_factor":0.968313,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[CONTROL] send 실패. 세션 제거 예정
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:18","voltage":19.3229,"current":0,"power_factor":0.944202,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:19","voltage":11.6952,"current":0,"power_factor":0.962249,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:20","voltage":4.90605,"current":0,"power_factor":0.969734,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:21","voltage":8.04349,"current":0,"power_factor":0.960702,"frequency":59.3,"status":"FAIL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:22","voltage":220.72,"current":1.15892,"power_factor":0.963185,"frequency":59.8183,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:24","voltage":220.073,"current":1.066,"power_factor":0.964109,"frequency":59.7085,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:35:25","voltage":220.788,"current":1.75556,"power_factor":0.946674,"frequency":60.2703,"status":"UNSTABLE"}
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:32","voltage":218.373,"current":1.45949,"power_factor":0.931959,"frequency":59.9991,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:33","voltage":219.045,"current":1.95161,"power_factor":0.944929,"frequency":60.0082,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:34","voltage":219.121,"current":1.01733,"power_factor":0.949385,"frequency":60.0077,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:35","voltage":219.414,"current":1.48628,"power_factor":0.960055,"frequency":59.9908,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:36","voltage":219.919,"current":1.26003,"power_factor":0.948432,"frequency":60.0033,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:37","voltage":218.341,"current":1.22603,"power_factor":0.957803,"frequency":59.9843,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:38","voltage":221.034,"current":1.53404,"power_factor":0.945387,"frequency":60.0093,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:39","voltage":221.456,"current":1.20719,"power_factor":0.968409,"frequency":59.9838,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:40","voltage":218.246,"current":0.609568,"power_factor":0.942465,"frequency":59.9914,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:41","voltage":218.211,"current":0.508975,"power_factor":0.947406,"frequency":59.9863,"status":"NORMAL"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:42","voltage":212.442,"current":5.31839,"power_factor":0.953407,"frequency":59.8298,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:43","voltage":213.433,"current":7.63991,"power_factor":0.964166,"frequency":59.8073,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:44","voltage":215.398,"current":8.84042,"power_factor":0.935398,"frequency":59.8093,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:45","voltage":215.32,"current":7.15399,"power_factor":0.942699,"frequency":59.8274,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:46","voltage":212.811,"current":9.90248,"power_factor":0.964102,"frequency":59.8382,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:47","voltage":212.88,"current":8.91727,"power_factor":0.9607,"frequency":59.8466,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:48","voltage":214.3,"current":5.72806,"power_factor":0.946326,"frequency":59.8455,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[CONTROL] send 실패. 세션 제거 예정
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:49","voltage":215.84,"current":6.5163,"power_factor":0.944631,"frequency":59.8445,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:50","voltage":212.116,"current":7.16478,"power_factor":0.968851,"frequency":59.8028,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+[서버] 전기 패킷 수신: {"device_id":"","timestamp":"2025-06-02T16:39:51","voltage":214.86,"current":6.3076,"power_factor":0.959847,"frequency":59.8135,"status":"OVERLOAD"}
+
+[CONTROL] send Test
+
+Host Name Is [ YU-LAPTOP ] IP : [172.30.1.78 ]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[IOCP Worker Thread Start!]
+
+[CONTROL] 관제 클라이언트 접속
+
+AddControl: 0 127.0.0.1
+
+[USER] 새 클라이언트 접속
+
+AddUser: 0 127.0.0.1
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[CONTROL] send 실패. 세션 제거 예정
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
+[서버] 알 수 없는 패킷 타입: 0
+
+[CONTROL] send Test
+
